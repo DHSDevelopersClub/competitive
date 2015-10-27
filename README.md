@@ -1,2 +1,2 @@
 # competitive
-Website for competitive coding
+Repository for competitive coding
