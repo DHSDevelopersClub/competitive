@@ -1,6 +1,6 @@
 var main = require("./main");
 
-exports.test1 = function(test) {
+exports.exampleTest = function(test) {
     // Test code here
     test.done();
 };
